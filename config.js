@@ -1,0 +1,23 @@
+export const nameBand = 'PAUL MCCARTNEY';
+export let nameSongs = [
+	"LIVE AND LET DIE", /*1*/
+	"SILLY LOVE SONGS", /*2*/
+	"MAYBE I'M AMAZED", /*3*/
+	"COMING UP", /*4*/
+	"JET", /*5*/
+	"NO MORE LONELY NIGHTS", /*6*/
+	"SAY SAY SAY", /*7*/
+	"HOPE OF DELIVERANCE", /*8*/
+	"SOMETHING", /*9*/
+	"FOR YOU BLUE", /*10*/
+	"ALL THINGS MUST PASS", /*11*/
+	"MONKBERRY MOON DELIGHT", /*12*/
+	"BAND ON THE RUN", /*13*/
+	"LET ME ROLL IT", /*14*/
+	"MAMUNIA", /*15*/
+	" ANOTHER DAY", /*16*/
+	"UNCLE ALBERT/ADMIRAL HALSEY", /*17*/
+	"TOO MANY PEOPLE", /*18*/
+	"3 LEGS", /*19*/
+	"HEART OF THE COUNTRY", /*20*/
+]
